@@ -1,0 +1,16 @@
+{
+  "name": "cli-nodejs",
+  "version": "1.0.0",
+  "description": "command line version of login system",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "joseph aswath",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^8.2.0",
+    "parse-json": "^6.0.2",
+    "stringify": "^5.2.0"
+  }
+}
